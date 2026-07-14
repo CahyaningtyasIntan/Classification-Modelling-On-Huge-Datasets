@@ -1,0 +1,32 @@
+# requirements.txt
+
+# Core data manipulation and numerics
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning (scikit-learn ecosystem)
+scikit-learn
+imbalanced-learn
+
+# Statistical modelling
+statsmodels
+scipy
+
+# Gradient boosting libraries
+xgboost
+lightgbm
+catboost
+
+# Feature Selection
+boruta
+
+# PSO
+pyswarms
+pyswarm
+
+# Jinja
+jinja2
